@@ -1,0 +1,6 @@
+[submodule "pkg"]
+	path = knative.dev/pkg
+	url = https://github.com/Jin-Whee-Park/pkg.git
+[submodule "pipeline"]
+	path = github.com/tektoncd/pipeline
+	url = https://github.com/Jin-Whee-Park/pipeline.git
