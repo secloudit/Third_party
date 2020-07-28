@@ -11,7 +11,15 @@ replace (
 )
 추가
 ```
+## Third Party 코드 관리 상황
+```cassandraql
+| <center> 모듈| <center> submodule|<center> 버전관리 github|
+|-------|---|---|
+| <center> tektoncd/pipeline| <center> O | <center> [https://github.com/Jin-Whee-Park/pipeline](https://github.com/Jin-Whee-Park/pipeline)|
+| <center> knative/pkg| <center> O| <center> [https://https://github.com/Jin-Whee-Park/pkg](https://github.com/Jin-Whee-Park/pkg)|
 
+
+```
 ## 참고 
 * tektoncd/pipeline : [Tekton Pipeline] (https://github.com/tektoncd/pipeline)
 * knative.dev/pkg : [knative/pkg] (https://github.com/knative/pkg)
