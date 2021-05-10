@@ -21,6 +21,6 @@ replace (
 
 
 ## 참고 
-* tektoncd/pipeline : [Tekton Pipeline] (https://github.com/tektoncd/pipeline)
-* knative.dev/pkg : [knative/pkg] (https://github.com/knative/pkg)
+* tektoncd/pipeline : [Tekton Pipeline](https://github.com/tektoncd/pipeline)
+* knative.dev/pkg : [knative/pkg](https://github.com/knative/pkg)
 
